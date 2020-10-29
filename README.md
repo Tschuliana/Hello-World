@@ -1,7 +1,5 @@
 # Hello-World
 
-![Getting Started](./Hello_World.PNG)
-
 Ziel:
 
 Dieses Programm zeigt beim ausführen ein schönes "Hello World" 
